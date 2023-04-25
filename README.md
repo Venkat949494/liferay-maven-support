@@ -1,2 +1,2 @@
-### liferay-maven-support
+#liferay-maven-support
 pom
